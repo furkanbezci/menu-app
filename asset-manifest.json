@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/furkanbezci/menu-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/furkanbezci/menu-app/static/js/main.f8eb004f.chunk.js",
+    "main.js.map": "/furkanbezci/menu-app/static/js/main.f8eb004f.chunk.js.map",
+    "runtime-main.js": "/furkanbezci/menu-app/static/js/runtime-main.f219e774.js",
+    "runtime-main.js.map": "/furkanbezci/menu-app/static/js/runtime-main.f219e774.js.map",
+    "static/js/2.1b5cacb2.chunk.js": "/furkanbezci/menu-app/static/js/2.1b5cacb2.chunk.js",
+    "static/js/2.1b5cacb2.chunk.js.map": "/furkanbezci/menu-app/static/js/2.1b5cacb2.chunk.js.map",
+    "index.html": "/furkanbezci/menu-app/index.html",
+    "precache-manifest.ba3b2df3341cf5cd458ad6d8a4ec4d64.js": "/furkanbezci/menu-app/precache-manifest.ba3b2df3341cf5cd458ad6d8a4ec4d64.js",
+    "service-worker.js": "/furkanbezci/menu-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/furkanbezci/menu-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.1b5cacb2.chunk.js.LICENSE.txt": "/furkanbezci/menu-app/static/js/2.1b5cacb2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f219e774.js",
+    "static/js/2.1b5cacb2.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f8eb004f.chunk.js"
+  ]
+}
